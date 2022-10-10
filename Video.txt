@@ -1,6 +1,6 @@
 
-[{"video":"https://www.dropbox.com/s/qmqhfx0vs60qdcg/7b6f15cde76f168574644e9497ac62a7.mp4?dl=1"
-,"text":"အချောလေး","download":"https://download2282.mediafire.com/3laczxx8hbpg/dz5crccq0bd0v3d/Myanmar2Dcheck+z.apk",
+[{"video":"https://www.dropbox.com/s/xd1qivhjkju0q53/m.mp4?dl=1"
+,"text":"အကျိုးရှိရှိစုပ်တဲ့ညီမလေး","download":"https://www.dropbox.com/s/k9ci3du91oi0qjs/1663207517585.jpg?dl=1",
 "image":"https://www.dropbox.com/s/dcsugw8aw3lp8ne/logo8_9_1336.png?dl=1"},
 
 {"video":"https://www.dropbox.com/s/qmqhfx0vs60qdcg/7b6f15cde76f168574644e9497ac62a7.mp4?dl=1"
